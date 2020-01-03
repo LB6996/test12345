@@ -68,7 +68,6 @@ const Navigator = () => {
                     </UncontrolledDropdown>
                 </Nav>
             </Navbar>
-            <h1>hello</h1>
         </>
     )
 }
